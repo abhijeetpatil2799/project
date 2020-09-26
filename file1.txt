@@ -1,7 +1,13 @@
 hello world!
 
 
+
 change 1 :-> change for feature login updated by teammate for WI3
+
+	     change for feature login updated for CR1 to test rebase
+
+test new lines for CR1 conflict (g)
+
 
 change 2 :-> to fix bug1
 
