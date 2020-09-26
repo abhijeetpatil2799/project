@@ -1,7 +1,12 @@
 welccome to git
 
-test simple push to remote repository related to WI4
+change1: test simple push to remote repository related to WI4
 
-test pull on remote repository for WI5 by teammate
 
-test rebase with conflict this change by team mate for WI7 on remote master repo
+         test pull on remote repository for WI5 by teammate
+
+change2: test pull on remote repository for WI5 by teammate
+
+change3: to test push with another scenerio local master for WI6
+
+change4: test rebase with conflict this change by team mate for WI7 on remote master repo
